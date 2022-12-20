@@ -33,7 +33,7 @@
   (pad "2" smd rect (at -3.15 0) (size 2 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f03aac62-943c-4d4c-812e-267c1a04f5ad))
   (pad "3" smd rect (at -3.15 2.3) (size 2 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4d535b5c-6aee-4343-a45d-6adc2889a3a2))
   (pad "4" smd rect (at 3.15 0) (size 2 3.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 29a355cc-85f8-4553-a9f6-375677f30df4))
-  (model "${MRCHUNCKUEE_FOOTPRINT_DIR}/3D/SOT-223.wrl"
+  (model "${MRCHUNCKUEE_FOOTPRINT_DIR}/3D/Package_SOT/SOT-223.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
