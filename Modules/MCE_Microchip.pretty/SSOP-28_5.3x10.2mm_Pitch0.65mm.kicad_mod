@@ -60,7 +60,7 @@
   (pad "26" smd rect (at 3.6 -2.925) (size 1.75 0.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 111ba7b3-6f7f-4fbf-b301-39c09ce40c55))
   (pad "27" smd rect (at 3.6 -3.575) (size 1.75 0.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a39846d2-975f-4405-878f-0fafaf4bba6e))
   (pad "28" smd rect (at 3.6 -4.225) (size 1.75 0.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 81028ec5-f168-4e3d-8f31-0915ddfad5be))
-  (model "${MRCHUNCKUEE_FOOTPRINT_DIR}/3D/SSOP-28_5.3x10.2mm_P0.65mm.wrl"
+  (model "${MRCHUNCKUEE_FOOTPRINT_DIR}/3D/Package_SSOP/SSOP-28_5.3x10.2mm_P0.65mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
