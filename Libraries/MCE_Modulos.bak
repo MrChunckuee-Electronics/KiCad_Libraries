@@ -6,7 +6,7 @@
     (property "Value" "DFPlayer_MiniMP3" (at 0 -15.24 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 0 0 0)
+    (property "Footprint" "MCE_Modulos:DFPlayer_MiniMP3" (at 2.54 -17.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 0 0 0)
