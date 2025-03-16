@@ -294,7 +294,7 @@
     (property "Value" "ESP32DevKitv1" (at 0 -24.13 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "MCE_Modulos:ESP32DevKitv1" (at 1.27 -26.67 0)
+    (property "Footprint" "MCE_Modulos:ESP32DevKitv1" (at 0 -26.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 0 5.08 0)
