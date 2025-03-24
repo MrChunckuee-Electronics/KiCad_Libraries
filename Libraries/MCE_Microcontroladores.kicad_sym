@@ -196,7 +196,7 @@
     (property "Footprint" "" (at -11.43 3.81 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "Datasheet" "https://www.mouser.com/datasheet/2/268/40001412G-1074167.pdf" (at -11.43 3.81 0)
+    (property "Datasheet" "https://www.mouser.com/datasheet/2/268/40001412G-1074167.pdf" (at 0 -25.4 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "ki_keywords" "PIC18F25K22" (at 0 0 0)
