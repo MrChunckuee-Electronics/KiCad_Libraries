@@ -12,6 +12,9 @@
     (property "Datasheet" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "ki_description" "DFPlayer_MiniMP3" (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (symbol "DFPlayer_MiniMP3_1_1"
       (rectangle (start -8.89 13.97) (end 8.89 -13.97)
         (stroke (width 0) (type default))
