@@ -193,7 +193,7 @@
     (property "Value" "PIC16F18313" (at 5.08 -8.89 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 0 0 0)
+    (property "Footprint" "MCE_Package_SMD:SOIC-8_3.9x4.9mm_Pitch1.27mm" (at 2.54 -30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 0 0 0)
