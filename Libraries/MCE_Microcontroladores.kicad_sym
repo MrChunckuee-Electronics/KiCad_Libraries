@@ -251,7 +251,7 @@
     (property "Value" "PIC18F06Q40" (at 16.51 -12.7 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 0 0 0)
+    (property "Footprint" "MCE_Package_SMD:TSSOP-14_4.4x5mm_P0.65mm" (at 0 -16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 0 0 0)
