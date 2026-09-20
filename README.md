@@ -39,4 +39,4 @@ git clone https://github.com/MrChunckuee-Electronics/KiCad_Libraries.git
 * Para que los modelos 3D se muestren correctamente, asegúrate de configurar la ruta relativa en las propiedades del footprint de KiCad o añade la variable de entorno correspondiente apuntando a la carpeta 3dmodels.
 
 ## Blog / WEB
-Puedes consultar la lista completa de componentes revisar: https://mrchunckuee.blogspot.com/p/kicad.html
+Puedes consultar la lista completa de componentes disponibles: https://mrchunckuee.blogspot.com/p/kicad.html
